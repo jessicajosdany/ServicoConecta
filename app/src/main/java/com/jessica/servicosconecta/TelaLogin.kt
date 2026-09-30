@@ -80,7 +80,7 @@ fun TelaLogin(onLoginSucesso: () -> Unit) {
                 .fillMaxWidth()
                 .height(50.dp)
         ) {
-            Text("Entrar na Plataforma")
+            Text("Login")
 
         }
 // Espaço entre os botões
